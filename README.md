@@ -1,4 +1,4 @@
-# Trabalho de Programação para Internet I \
+# Trabalho de Programação para Internet I 
 ## Portfolio em HTML e CSS puros
 ### Grupo Responsável Pelo Projeto
 Os alunos que são responsáveis pelo projeto são: Isaac Borges Laranjeira, Paulo Gabriel e Leonardo José.
