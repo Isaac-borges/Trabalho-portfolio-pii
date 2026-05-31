@@ -4,7 +4,7 @@
 Os alunos que são responsáveis pelo projeto são: Isaac Borges Laranjeira, Paulo Gabriel e Leonardo José.
 
 ### Tema escolhido
-O tema escolhido pelo grupo foi o portfólio para um estudante de programação.
+O tema escolhido pelo grupo foi o portfólio para uma equipe de desenvolvimento Web composta pelos membros do grupo.
 
 ### Descrição do Portfólio
 
