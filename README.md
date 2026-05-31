@@ -11,9 +11,9 @@ O tema escolhido pelo grupo foi o portfólio para uma equipe de desenvolvimento 
 ### Principais Desafios
 
 ### Parte de cada Integrante
-- Isaac: 
-- Paulo: 
-- Leonardo:
+- Isaac: Responsividade, README.md, gravação do vídeo. 
+- Paulo: CSS e design.
+- Leonardo: HTML e ideia do projeto.
 
 ### Links importantes
 
