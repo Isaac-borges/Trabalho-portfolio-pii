@@ -40,6 +40,6 @@ Sites nos quais o membro que estava responsável pelo CSS usou de referência pa
 - https://developer.mozilla.org/pt-BR/docs/Web/CSS/Guides/Flexible_box_layout/Basic_concepts
 
 #### Link do Github Pages
-- https://www.portfolio-dev-web-pii.com/
+- https://isaac-borges.github.io/Trabalho-portfolio-pii/index.html
 #### Link do vídeo
 - https://youtu.be/cC3Ovm7sxh0
