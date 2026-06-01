@@ -20,6 +20,21 @@ a {
     justify-content: flex-end;
 }
 
+.nav-menu {
+    display: flex;
+    gap: 20px;
+    padding: 20px;
+}
+
+.nav-link:hover {
+    color: #38bdf8;
+}
+
+.secao-apresentacao {
+    max-width: 1000px;
+    margin: 0;
+}
+
 .apresentacao-bloco {
     display: flex;
     justify-content: center;
@@ -27,17 +42,17 @@ a {
     padding: 40px;
 }
 
-
-
 .cartao-membro {
     background-color: #1e293b;
     border-radius: 20px;
-    display: grid;
     padding: 8px; 
     margin: 10px;
+    text-align: center;
 }
 
 .imagem-perfil {
     width: 200px;
     height: 200px;
+    border-radius: 50%;
+    margin: 0 auto;
 }
