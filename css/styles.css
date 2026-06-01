@@ -1,0 +1,43 @@
+* {
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #0f172a;
+    color: #f1f5f9;
+    font-family: Arial, sans-serif;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+.header-principal {
+    background-color: #0f172a;
+    display: flex;
+    justify-content: flex-end;
+}
+
+.apresentacao-bloco {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    padding: 40px;
+}
+
+
+
+.cartao-membro {
+    background-color: #1e293b;
+    border-radius: 20px;
+    display: grid;
+    padding: 8px; 
+    margin: 10px;
+}
+
+.imagem-perfil {
+    width: 200px;
+    height: 200px;
+}
