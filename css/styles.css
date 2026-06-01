@@ -3,9 +3,19 @@
     box-sizing: border-box;
 }
 
+:root {
+    --cor-fundo: #0f172a;
+    --cor-card: #1e293b;
+    --cor-destaque: #38bdf8;
+    --cor-botao: #2563eb;
+    --cor-texto: #f1f5f9;
+    --cor-texto-secundario: #94a3b8;
+    --cor-footer: #020617;
+}
+
 body {
-    background-color: #0f172a;
-    color: #f1f5f9;
+    background-color: var(--cor-fundo);
+    color: var(--cor-texto);
     font-family: Arial, sans-serif;
 }
 
@@ -15,7 +25,7 @@ a {
 }
 
 .header-principal {
-    background-color: #0f172a;
+    background-color: var(--cor-fundo);
     display: flex;
     justify-content: flex-end;
 }
@@ -27,7 +37,7 @@ a {
 }
 
 .nav-link:hover {
-    color: #38bdf8;
+    color: var(--cor-destaque);
 }
 
 .secao-apresentacao {
@@ -36,7 +46,7 @@ a {
 }
 
 .destaque-cor {
-    color: #38bdf8;
+    color: var(--cor-destaque);
 }
 
 .apresentacao-bloco {
@@ -47,7 +57,7 @@ a {
 }
 
 .cartao-membro {
-    background-color: #1e293b;
+    background-color: var(--cor-card);
     border-radius: 20px;
     padding: 8px; 
     margin: 10px;
@@ -68,7 +78,7 @@ a {
 }
 
 .botao-link {
-    background-color: #2563eb;
+    background-color: var(--cor-botao);
     padding: 10px 20px;
     border-radius: 8px;
     display: inline-block;
@@ -76,7 +86,7 @@ a {
 }
 
 .botao-link:hover {
-    background-color: #38bdf8;
+    background-color: var(--cor-destaque);
 }
 
 
@@ -141,7 +151,7 @@ a {
 
 .apresentacao-titulo {
     font-size: 28px;
-    border-bottom: 2px solid #38bdf8;
+    border-bottom: 2px solid var(--cor-destaque);
     padding-bottom: 5px;
 }
 
@@ -151,7 +161,7 @@ a {
 } 
 
 .apresentacao-bloco {
-    background-color: #1e293b;
+    background-color: var(--cor-card);
     padding: 30px;
     border-radius: 20px;
 }
@@ -160,3 +170,17 @@ a {
     margin-top: 20px;
 } 
 
+/* Rodapé */
+
+.footer-principal {
+    background-color: var(--cor-footer);
+    text-align: center;
+    padding: 20px;
+    margin-top: 40px;
+    border-top: 1px solid var(--cor-card);
+}
+
+.footer-principal p {
+    font-size: 14px;
+    color: var(--cor-texto-secundario);
+}
